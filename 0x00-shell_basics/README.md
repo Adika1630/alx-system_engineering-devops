@@ -6,4 +6,5 @@ Display current directory contents, including hidden file (starting with .) a lo
 Display long format, with user's and group ID's displayed numericallly including hidden files(starting with .)
 Create a script that creates a directory
 Move file
-Delete file 
+Delete file
+Delete directory 
