@@ -7,4 +7,5 @@ Display long format, with user's and group ID's displayed numericallly including
 Create a script that creates a directory
 Move file
 Delete file
-Delete directory 
+Delete directory
+Changing to the previous directory 
