@@ -10,4 +10,5 @@ Delete file
 Delete directory
 Changing to the previous directory
 Script that list all fiels including hidden files of current directory. parent working directory and /boot directory
-Script that prints the file named in /tmp directory 
+Script that prints the file named in /tmp directory
+Creating a symbolic link at current working directory 
