@@ -4,3 +4,4 @@ script that print groups of current user part of
 script that changes the owner os the file
 script that creates and empty file
 Add exectuion permission to the owner
+Add execution permission to owner and group owner and read only to others
