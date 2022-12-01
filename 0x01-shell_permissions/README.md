@@ -6,3 +6,4 @@ script that creates and empty file
 Add exectuion permission to the owner
 Add execution permission to owner and group owner and read only to others
 All permissions only to others
+Script os -rwxr-x-wx file`
