@@ -13,3 +13,4 @@ Create a directory with 751 chmod
 Changing group owner
 Changing file name of owner and gorup at once
 Changing file name of owner and group of symbolic link at once`
+Changing the owner of file if the the last owner is specific
