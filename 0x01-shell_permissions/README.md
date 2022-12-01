@@ -8,3 +8,4 @@ Add execution permission to owner and group owner and read only to others
 All permissions only to others
 Script os -rwxr-x-wx file`
 Copy file's permissions
+Execution permissions to all subdirectories
