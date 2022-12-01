@@ -11,3 +11,4 @@ Copy file's permissions
 Execution permissions to all subdirectories
 Create a directory with 751 chmod
 Changing group owner
+Changing file name of owner and gorup at once
