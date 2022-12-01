@@ -9,3 +9,4 @@ All permissions only to others
 Script os -rwxr-x-wx file`
 Copy file's permissions
 Execution permissions to all subdirectories
+Create a directory with 751 chmod
