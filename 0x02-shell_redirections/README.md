@@ -20,3 +20,4 @@ Dispaly only letters
 Replace characters
 Remove letters
 Reverse
+Display all users from home directory
