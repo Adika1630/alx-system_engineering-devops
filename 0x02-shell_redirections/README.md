@@ -21,3 +21,4 @@ Replace characters
 Remove letters
 Reverse
 Display all users from home directory
+Empty casks make the most noise
