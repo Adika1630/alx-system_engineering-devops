@@ -14,3 +14,4 @@ List top 10 files from newest to oldest
 Print word only unrepeated in sorted way
 print files containing root
 Count number of words hat contains
+list line containing root and before it
