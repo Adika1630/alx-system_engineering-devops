@@ -17,3 +17,4 @@ Count number of words hat contains
 list line containing root and before it
 Display not matching lines
 Dispaly only letters
+Replace characters
