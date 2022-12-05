@@ -6,3 +6,4 @@ Display the last lines of /etc/passwd
 Display the first lines of /etc/passwd
 Display only the third line
 Create a file containing Best School
+Script creating a file  that contains output of existing files
