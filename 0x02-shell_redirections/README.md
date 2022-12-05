@@ -19,3 +19,4 @@ Display not matching lines
 Dispaly only letters
 Replace characters
 Remove letters
+Reverse
