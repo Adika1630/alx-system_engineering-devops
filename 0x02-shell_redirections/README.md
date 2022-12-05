@@ -11,3 +11,4 @@ Duplicate the last line of existing text
 Find filea and delete the selected files
 Counting the number of directories
 List top 10 files from newest to oldest
+Print word only unrepeated in sorted way
