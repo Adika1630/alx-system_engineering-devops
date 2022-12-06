@@ -11,3 +11,4 @@ Script that divides number from environmental variables
 Script that powers the number fron envirnmental variables
 Script that convert from binary to decimal
 List combination of alphabetics with oo omitted
+Script that prints a number with two decimal places, followed by a new line.
