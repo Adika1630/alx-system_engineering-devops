@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%a\n' $BINARY
+printf '%x\n' $BINARY
