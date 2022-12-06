@@ -8,3 +8,4 @@ Create a local variables
 Create a global variables
 Script that add number with envirnomental variables
 Script that divides number from environmental variables
+Script that powers the number fron envirnmental variables
